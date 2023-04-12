@@ -1,2 +1,13 @@
-#383D58
-body { background-color:#383D58}
+header{
+    background-color:#383D58;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    height: 100px;
+}
+
+.logo-cabecalho{
+width: 60% ;
+
+}
+
