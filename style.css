@@ -5,9 +5,8 @@ header{
     justify-content:space-around;
     height: 100px;
 }
-
+body {font-family: 'Spectral', serif;}
 .logo-cabecalho{
 width: 60% ;
 
 }
-
